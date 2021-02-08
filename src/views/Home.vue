@@ -1,8 +1,6 @@
 <template>
   <div class="home d-flex flex-column m-4 align-items-center">
     <home />
-    <home />
-    <home />
   </div>
 </template>
 
