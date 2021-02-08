@@ -22,3 +22,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### Vuejs firebase authentication tutorial with routing
+See [Vuejs firebase authentication](https://www.youtube.com/watch?v=MoBYBc1dkhE).
+
